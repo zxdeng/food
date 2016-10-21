@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
+//        NavigationMenuView
 //        actionBarDrawerToggle = new ActionBarDrawerToggle(this,mDrawer,android.R.string.)
     }
 }
